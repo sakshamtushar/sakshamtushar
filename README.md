@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakshamtushar
 - 💞️ I’m looking to collaborate on security projects, detection engineering, Process Monitoring, Threat Hunting & Intelligence
 - 📫 reach me at Linkedin : https://www.linkedin.com/in/saksham-tushar-1215a8106/
--  Writing at https://sakshamtushar.gitbook.io/threat-hunting-on-the-rocks/ (don't judge me !! I'm still learning)
+-  Writing at https://sakshamtushar.notion.site/thor
 
 <!---
 sakshamtushar/sakshamtushar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
